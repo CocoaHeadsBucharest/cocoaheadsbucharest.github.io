@@ -1,0 +1,185 @@
+:root {
+    --satinLinenColor:#e5e6d3;
+    --satinLinenColor09:rgba(229, 230, 211, .9);
+    --darkSatinLinenColor:#d8dabd;
+    --bluemineColor:#17647a;
+    --darkBluemineColor:#0f414f;
+}
+
+
+body {
+	background-color: var(--satinLinenColor);
+}
+
+a {
+    color: var(--bluemineColor);
+}
+
+a:hover, a:focus {
+    color: var(--darkBluemineColor);
+}
+
+hr {
+    border-top: 1px solid var(--darkSatinLinenColor);
+}
+
+.navbar-custom {
+    font-family: -apple-system, BlinkMacSystemFont, 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+/*==============================    h1, h2 headings on main banner    ======================================*/
+
+.intro-header .site-heading h1, .intro-header .page-heading h1 {
+    font-size: 50px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: var(--satinLinenColor);
+}
+.intro-header .site-heading h2, .intro-header .page-heading h2 {
+    font-size: 32px;
+    font-family: 'Felipa', cursive;
+    color: var(--satinLinenColor);
+}
+@media only screen and (min-width:768px) {
+    .intro-header .site-heading h1, .intro-header .page-heading h1 {
+    	font-size: 101px;
+	}
+	.intro-header .site-heading h2, .intro-header .page-heading h2 {
+	    font-size: 65px;
+	}
+}
+
+/*==============================    h1, h2 headings on navbar brand   ======================================*/
+
+.navbar-default .navbar-brand h1{
+    font-size: 28px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin-top: -15px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+}
+
+
+@media only screen and (min-width:768px) {
+    
+	.navbar-default .navbar-brand h1{
+	    font-size: 28px;
+	}
+}
+
+@media only screen and (min-width:1170px) {
+	
+	.navbar-default .navbar-brand h1{
+	    font-size: 28px;
+	}
+}	
+
+
+.navbar-default .navbar-brand h2{
+    font-size: 20px;
+    font-family: 'Felipa', cursive;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+
+@media only screen and (min-width:768px) {
+    
+	.navbar-default .navbar-brand h2{
+	    font-size: 20px;
+	}
+}
+
+@media only screen and (min-width:1170px) {
+	
+	.navbar-default .navbar-brand h2{
+	    font-size: 20px;
+	}
+}	
+
+
+/*==============================    Nav bar     ==============================*/
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: var(--bluemineColor);
+}
+
+.navbar-default .navbar-toggle {
+    border-color: var(--bluemineColor);
+}
+
+.navbar-default {
+    background-color: var(--satinLinenColor09);
+    border-color: var(--darkSatinLinenColor);
+}
+.navbar-default .navbar-nav>li>a {
+    color: var(--bluemineColor);
+}
+.navbar-default .navbar-brand {
+    color: var(--bluemineColor);
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: var(--darkSatinLinenColor);
+}
+
+@media only screen and (min-width:768px) {
+    .navbar-custom .nav li a {
+	    color: var(--satinLinenColor);
+	}
+
+	.navbar-default {
+	    background: 0 0;
+	    border: 0;
+	}
+	.navbar-default .navbar-nav>li>a {
+	    color: var(--satinLinenColor);
+	}
+	.navbar-default .navbar-brand {
+	    color: var(--satinLinenColor);
+	}
+
+	.navbar-custom .navbar-brand:hover, .navbar-custom .navbar-brand:focus {
+	    color: var(--darkSatinLinenColor);
+	}
+	.navbar-custom .nav li a:hover, .navbar-custom .nav li a:focus {
+	    color: var(--darkSatinLinenColor);
+	}
+}
+
+@media only screen and (min-width:1170px) {
+	.navbar-custom.is-fixed {
+	    background-color: var(--satinLinenColor09);
+        border-bottom: 1px solid var(--darkSatinLinenColor);
+	}
+	.navbar-custom.is-fixed .nav li a {
+	    color: var(--bluemineColor);
+	}
+	.navbar-custom.is-fixed .nav li a:hover, .navbar-custom.is-fixed .nav li a:focus {
+	    color: var(--darkBluemineColor);
+	}
+	.navbar-custom.is-fixed .navbar-brand {
+	    color: var(--bluemineColor);
+	}
+	.navbar-custom.is-fixed .navbar-brand:hover, .navbar-custom.is-fixed .navbar-brand:focus {
+	    color: var(--darkBluemineColor);
+	}
+}	
+
+/*========================================	pager  ============================================*/
+
+.pager li>a, .pager li>span {
+    background-color: var(--satinLinenColor);
+    border: 1px solid var(--bluemineColor);
+}
+
+.pager li>a:hover, .pager li>a:focus {
+    color: var(--satinLinenColor);
+    background-color: var(--bluemineColor);
+    border: 1px solid var(--bluemineColor);
+}
+
+
+
+
+
+
