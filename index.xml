@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CocoaHeads</title>
-    <link>http://cocoaheadsbucharest.github.io/</link>
+    <link>https://cocoaheadsbucharest.github.io/</link>
     <description>Recent content on CocoaHeads</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Made with [Hugo](https://gohugo.io/), using the [StartBoostrap Clean Blog](https://github.com/humboldtux/startbootstrap-clean-blog) theme</copyright>
     <lastBuildDate>Sun, 24 May 2015 18:52:04 +0200</lastBuildDate>
     
-	<atom:link href="http://cocoaheadsbucharest.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cocoaheadsbucharest.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>FAQ</title>
-      <link>http://cocoaheadsbucharest.github.io/faq/</link>
+      <link>https://cocoaheadsbucharest.github.io/faq/</link>
       <pubDate>Sun, 24 May 2015 18:52:04 +0200</pubDate>
       
-      <guid>http://cocoaheadsbucharest.github.io/faq/</guid>
+      <guid>https://cocoaheadsbucharest.github.io/faq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Code of Conduct</title>
-      <link>http://cocoaheadsbucharest.github.io/code-of-conduct/</link>
+      <link>https://cocoaheadsbucharest.github.io/code-of-conduct/</link>
       <pubDate>Sun, 24 May 2015 18:52:04 +0200</pubDate>
       
-      <guid>http://cocoaheadsbucharest.github.io/code-of-conduct/</guid>
+      <guid>https://cocoaheadsbucharest.github.io/code-of-conduct/</guid>
       <description>All attendees, speakers, sponsors and volunteers at our gatherings are required to agree with the following code of conduct. Organisers will enforce this code, both in online group forums such as Slack, and throughout IRL events.
 TL;DR: Be nice, be considerate, be respectful.
 Our community must provide a harassment-free experience for everyone, regardless of age, class, disability, gender identity, physical appearance, race and ethnicity, religion and belief, sexual orientation, preferred operating system, programming language, or text editor.</description>
@@ -34,91 +34,91 @@ Our community must provide a harassment-free experience for everyone, regardless
     
     <item>
       <title>Building a theme with Hugo</title>
-      <link>http://cocoaheadsbucharest.github.io/post/post-01/</link>
+      <link>https://cocoaheadsbucharest.github.io/post/post-01/</link>
       <pubDate>Sun, 24 May 2015 18:53:17 +0200</pubDate>
       
-      <guid>http://cocoaheadsbucharest.github.io/post/post-01/</guid>
+      <guid>https://cocoaheadsbucharest.github.io/post/post-01/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Second post</title>
-      <link>http://cocoaheadsbucharest.github.io/post/post-02/</link>
+      <link>https://cocoaheadsbucharest.github.io/post/post-02/</link>
       <pubDate>Sun, 24 May 2015 18:52:17 +0200</pubDate>
       
-      <guid>http://cocoaheadsbucharest.github.io/post/post-02/</guid>
+      <guid>https://cocoaheadsbucharest.github.io/post/post-02/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Third post</title>
-      <link>http://cocoaheadsbucharest.github.io/post/post-03/</link>
+      <link>https://cocoaheadsbucharest.github.io/post/post-03/</link>
       <pubDate>Sun, 24 May 2015 18:52:17 +0201</pubDate>
       
-      <guid>http://cocoaheadsbucharest.github.io/post/post-03/</guid>
+      <guid>https://cocoaheadsbucharest.github.io/post/post-03/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fourth post</title>
-      <link>http://cocoaheadsbucharest.github.io/post/post-04/</link>
+      <link>https://cocoaheadsbucharest.github.io/post/post-04/</link>
       <pubDate>Sun, 24 May 2015 18:52:17 +0202</pubDate>
       
-      <guid>http://cocoaheadsbucharest.github.io/post/post-04/</guid>
+      <guid>https://cocoaheadsbucharest.github.io/post/post-04/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Five post</title>
-      <link>http://cocoaheadsbucharest.github.io/post/post-05/</link>
+      <link>https://cocoaheadsbucharest.github.io/post/post-05/</link>
       <pubDate>Sun, 24 May 2015 18:52:17 +0204</pubDate>
       
-      <guid>http://cocoaheadsbucharest.github.io/post/post-05/</guid>
+      <guid>https://cocoaheadsbucharest.github.io/post/post-05/</guid>
       <description></description>
     </item>
     
     <item>
       <title>post 06</title>
-      <link>http://cocoaheadsbucharest.github.io/post/post-06/</link>
+      <link>https://cocoaheadsbucharest.github.io/post/post-06/</link>
       <pubDate>Sun, 24 May 2015 18:52:17 +0206</pubDate>
       
-      <guid>http://cocoaheadsbucharest.github.io/post/post-06/</guid>
+      <guid>https://cocoaheadsbucharest.github.io/post/post-06/</guid>
       <description></description>
     </item>
     
     <item>
       <title>post 07</title>
-      <link>http://cocoaheadsbucharest.github.io/post/post-07/</link>
+      <link>https://cocoaheadsbucharest.github.io/post/post-07/</link>
       <pubDate>Sun, 24 May 2015 18:52:17 +0207</pubDate>
       
-      <guid>http://cocoaheadsbucharest.github.io/post/post-07/</guid>
+      <guid>https://cocoaheadsbucharest.github.io/post/post-07/</guid>
       <description></description>
     </item>
     
     <item>
       <title>post 08</title>
-      <link>http://cocoaheadsbucharest.github.io/post/post-08/</link>
+      <link>https://cocoaheadsbucharest.github.io/post/post-08/</link>
       <pubDate>Sun, 24 May 2015 18:52:17 +0208</pubDate>
       
-      <guid>http://cocoaheadsbucharest.github.io/post/post-08/</guid>
+      <guid>https://cocoaheadsbucharest.github.io/post/post-08/</guid>
       <description></description>
     </item>
     
     <item>
       <title>post 09</title>
-      <link>http://cocoaheadsbucharest.github.io/post/post-09/</link>
+      <link>https://cocoaheadsbucharest.github.io/post/post-09/</link>
       <pubDate>Sun, 24 May 2015 18:52:17 +0209</pubDate>
       
-      <guid>http://cocoaheadsbucharest.github.io/post/post-09/</guid>
+      <guid>https://cocoaheadsbucharest.github.io/post/post-09/</guid>
       <description></description>
     </item>
     
     <item>
       <title>post 10</title>
-      <link>http://cocoaheadsbucharest.github.io/post/post-10/</link>
+      <link>https://cocoaheadsbucharest.github.io/post/post-10/</link>
       <pubDate>Sun, 24 May 2015 18:52:17 +0210</pubDate>
       
-      <guid>http://cocoaheadsbucharest.github.io/post/post-10/</guid>
+      <guid>https://cocoaheadsbucharest.github.io/post/post-10/</guid>
       <description></description>
     </item>
     
